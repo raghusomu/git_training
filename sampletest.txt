@@ -1,3 +1,7 @@
 sample test 1
 
+
 commit reset code try 1
+
+code merge try 1
+
