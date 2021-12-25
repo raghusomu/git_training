@@ -1,3 +1,5 @@
 sampletest 2
 
 commit reset try code 2
+
+commit revert try code 2
