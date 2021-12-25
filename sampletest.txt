@@ -5,4 +5,8 @@ commit reset code try 1
 
 code merge try 1
 
+<<<<<<< Updated upstream
 stash code for urgent fix
+=======
+pausing the code
+>>>>>>> Stashed changes
